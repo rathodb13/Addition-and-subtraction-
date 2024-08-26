@@ -1,0 +1,5 @@
+#include <iostream> 
+using namespace std; 
+int main()
+int no1=5 , no2=8, sum; 
+cout<<sum; 
